@@ -1,10 +1,10 @@
-# Privacy Policy for PBlocker Extension
+# Privacy Policy for BlockNSFW – Porn & Adult Content Filter
 
 **Last Updated:** December 2024
 
 ## Overview
 
-PBlocker is a browser extension designed to block adult websites and inappropriate content to provide a safer browsing experience. This privacy policy explains how we handle your data and protect your privacy.
+BlockNSFW – Porn & Adult Content Filter is a browser extension designed to block adult websites and inappropriate content to provide a safer browsing experience. This privacy policy explains how we handle your data and protect your privacy.
 
 ## Data Collection
 
@@ -58,7 +58,7 @@ PBlocker is a browser extension designed to block adult websites and inappropria
 
 ### No Third-Party Integration
 
-- PBlocker does not integrate with any third-party services
+- BlockNSFW – Porn & Adult Content Filter does not integrate with any third-party services
 - No data is shared with advertising networks, analytics providers, or other services
 - The extension operates completely offline after installation
 
@@ -94,7 +94,7 @@ PBlocker is a browser extension designed to block adult websites and inappropria
 
 ## Children's Privacy
 
-- PBlocker is designed to protect users of all ages, including children
+-BlockNSFW – Porn & Adult Content Filter is designed to protect users of all ages, including children
 - We do not knowingly collect any data from children
 - The extension provides additional protection for younger users
 - Parents can review and control all extension settings
@@ -112,7 +112,7 @@ PBlocker is a browser extension designed to block adult websites and inappropria
 
 ### Transparency
 
-- PBlocker's code is available for review and audit
+- BlockNSFW – Porn & Adult Content Filter's code is available for review and audit
 - Community contributions and security reviews are welcome
 - No hidden functionality or undisclosed data collection
 
@@ -137,7 +137,7 @@ If you have any questions about this privacy policy or the extension's data prac
 
 ## Summary
 
-PBlocker is committed to protecting your privacy by:
+BlockNSFW – Porn & Adult Content Filter is committed to protecting your privacy by:
 
 - ✅ Processing all data locally on your device
 - ✅ Never transmitting personal information
@@ -147,4 +147,4 @@ PBlocker is committed to protecting your privacy by:
 - ✅ Using minimal necessary permissions
 - ✅ Operating without external dependencies
 
-**Your privacy is our priority. PBlocker works entirely on your device to keep your browsing data private and secure.**
+**Your privacy is our priority. BlockNSFW – Porn & Adult Content Filter works entirely on your device to keep your browsing data private and secure.**
